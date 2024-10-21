@@ -43,7 +43,7 @@ criaCartao(
 criaCartao(
      'Pecuária Leiteira',
     'Qual é a difere
-    'Lnça entre leite pasteurizado e leite cru?',
+    'Lança entre leite pasteurizado e leite cru?',
     'O leite pasteurizado passa por um processo de aquecimento para eliminar bactérias, enquanto o leite cru é o leite que não foi tratado, mantendo todas as suas propriedades naturais.'
 )
 criaCartao(
