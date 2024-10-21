@@ -1,23 +1,23 @@
 criaCartao(
     'Programação',
-    'Qual é a principal raça de gado leiteiro no Brasil?'
-    'A principal raça de gado leiteiro no Brasil é a Holandesa, conhecida pela sua alta produção de leite.'
+    'O que é Python?',
+    'O Python é uma linguagem de programação'
+)
+
+criaCartao(
+    'Geografia',
+    'Qual a capital da França?',
+    'A capital da França é Paris'
 )
 
 criaCartao(
     'Programação',
-    'Quais são os principais produtos derivados do leite?'
-    'Os principais produtos derivados do leite incluem queijo, iogurte, manteiga e leite condensado.'
+    'O que é uma função?',
+    'Uma função é um bloco de código que executa alguma tarefa'
 )
 
 criaCartao(
-    'Programação',
-    'Qual é a importância da alimentação na produção de leite?'
-    'A alimentação adequada é fundamental para a saúde do gado e diretamente influencia a quantidade e a qualidade do leite produzido.'
-)
-
-criaCartao(
-    'Programação',
-    'Qual é a importância da alimentação na produção de leite?'
-    'A alimentação adequada é fundamental para a saúde do gado e diretamente influencia a quantidade e a qualidade do leite produzido.'
+    'Lingua inglesa',
+    'Como se diz oi em Inglês?',
+    'Oi em ingles é HI (RAI)'
 )
